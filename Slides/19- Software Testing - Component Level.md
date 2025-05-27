@@ -55,3 +55,6 @@
     * **Independent Paths:** Exercise all independent paths through the control structure to ensure all statements are executed at least once. This uncovers errors from incorrect computations, comparisons, or control flow.
     * **Boundary Conditions:** Test module operation at boundaries (e.g., array limits, loop iterations, min/max values) where software often fails.
     * **Error-Handling Paths:** Test all paths related to error handling.
+ 
+### References
+Pressman, Roger S., and Bruce R. Maxim. Software Engineering: A Practitioner's Approach. 9th ed., McGraw-Hill Education, 2019.
