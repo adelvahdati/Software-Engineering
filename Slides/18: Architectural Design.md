@@ -80,4 +80,7 @@
 * Agile teams anticipate architectural elements from user stories, create architectural prototypes (walking skeletons), and develop explicit architectural work products.
   * Architects contribute and prioritize architectural user stories with business stories in sprints, ensuring high architectural quality.
 
+### References
+Pressman, Roger S., and Bruce R. Maxim. Software Engineering: A Practitioner's Approach. 9th ed., McGraw-Hill Education, 2019.
+
 
